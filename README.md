@@ -90,17 +90,7 @@ Once ```the Crash.py``` script is running, you can send it the /predict command 
 
 ## Contributing
 
-Contributions are always welcome! If you would like to contribute to this project, you can enhance the 1XBetCrashUpdater.py file to automatically update the ```1XBetCrash.csv file.``` This will help improve the accuracy of the models that rely on the 'Multiplier' column.
-
-### ℹ️ℹ️  Steps to Contribute
-
-- Fork the repository.
-- Clone the forked repository to your local machine.
-- Modify the ```1XBetCrashUpdater.py``` file to update the ```1XBetCrash.csv``` file.
-- Test your modifications to ensure they work as expected.
-- Commit your changes and push them to your forked repository.
-- Submit a pull request to have your changes reviewed and merged into the main repository.
-
+Contributions are always welcome! If you wo
 Thank you for your contributions!
 
 ## License
